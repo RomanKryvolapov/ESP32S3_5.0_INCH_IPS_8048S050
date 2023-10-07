@@ -1,0 +1,5 @@
+C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/cmake-build-esp32s3box/CMakeFiles/Production.dir
+C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/cmake-build-esp32s3box/CMakeFiles/Debug.dir
+C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/cmake-build-esp32s3box/CMakeFiles/Z_DUMMY_TARGET.dir
+C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/cmake-build-esp32s3box/CMakeFiles/edit_cache.dir
+C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/cmake-build-esp32s3box/CMakeFiles/rebuild_cache.dir

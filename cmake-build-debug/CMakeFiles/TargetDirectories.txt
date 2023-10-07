@@ -1,0 +1,5 @@
+C:/Users/Roman/CLionProjects/ESP32S3_LCD_3.5/cmake-build-debug/CMakeFiles/Production.dir
+C:/Users/Roman/CLionProjects/ESP32S3_LCD_3.5/cmake-build-debug/CMakeFiles/Debug.dir
+C:/Users/Roman/CLionProjects/ESP32S3_LCD_3.5/cmake-build-debug/CMakeFiles/Z_DUMMY_TARGET.dir
+C:/Users/Roman/CLionProjects/ESP32S3_LCD_3.5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Roman/CLionProjects/ESP32S3_LCD_3.5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

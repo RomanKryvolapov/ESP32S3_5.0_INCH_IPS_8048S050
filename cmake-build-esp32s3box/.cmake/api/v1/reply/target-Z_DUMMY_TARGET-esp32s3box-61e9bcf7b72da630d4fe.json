@@ -1,0 +1,6237 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "Z_DUMMY_TARGET"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"add_definitions",
+			"include",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"CMakeListsPrivate.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 41,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 38,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 43,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 27,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 44,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 29,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 28,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 42,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 26,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 39,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 36,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 40,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 30,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 35,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 31,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 25,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 32,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 33,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 34,
+				"parent" : 3
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 37,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 46,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 47,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 48,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 49,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 50,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 51,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 52,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 53,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 54,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 55,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 56,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 57,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 58,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 59,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 60,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 61,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 62,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 63,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 64,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 65,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 66,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 67,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 68,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 69,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 70,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 71,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 72,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 73,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 74,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 75,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 76,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 77,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 78,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 79,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 80,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 81,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 82,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 83,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 84,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 85,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 86,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 87,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 88,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 89,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 90,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 91,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 92,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 93,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 94,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 95,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 96,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 97,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 98,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 99,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 100,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 101,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 102,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 103,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 104,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 105,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 106,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 107,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 108,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 109,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 110,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 111,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 112,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 113,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 114,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 115,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 116,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 117,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 118,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 119,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 120,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 121,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 122,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 123,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 124,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 125,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 126,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 127,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 128,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 129,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 130,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 131,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 132,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 133,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 134,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 135,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 136,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 137,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 138,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 139,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 140,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 141,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 142,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 143,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 144,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 145,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 146,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 147,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 148,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 149,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 150,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 151,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 152,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 153,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 154,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 155,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 156,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 157,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 158,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 159,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 160,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 161,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 162,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 163,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 164,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 165,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 166,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 167,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 168,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 169,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 170,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 171,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 172,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 173,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 174,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 175,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 176,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 177,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 178,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 179,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 180,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 181,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 182,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 183,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 184,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 185,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 186,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 187,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 188,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 189,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 190,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 191,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 192,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 193,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 194,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 195,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 196,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 197,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 198,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 199,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 200,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 201,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 202,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 203,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 204,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 205,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 206,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 207,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 208,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 209,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 210,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 211,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 212,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 213,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 214,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 215,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 216,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 217,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 218,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 219,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 220,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 221,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 222,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 223,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 224,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 225,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 226,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 227,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 228,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 229,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 230,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 231,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 232,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 233,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 234,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 235,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 236,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 237,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 238,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 239,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 240,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 241,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 242,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 243,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 244,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 245,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 246,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 247,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 248,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 249,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 250,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 251,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 252,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 253,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 254,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 255,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 256,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 257,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 258,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 259,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 260,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 261,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 262,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 263,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 264,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 265,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 266,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 267,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 268,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 269,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 270,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 271,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 272,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 273,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 274,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 275,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 276,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 277,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 278,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 279,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 280,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 281,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 282,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 283,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 284,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 285,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 286,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 287,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 288,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 289,
+				"parent" : 3
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-std=gnu++11 -fexceptions -fno-rtti -Os -mlongcalls -ffunction-sections -fdata-sections -Wno-error=unused-function -Wno-error=unused-variable -Wno-error=deprecated-declarations -Wno-unused-parameter -Wno-sign-compare -ggdb -freorder-blocks -Wwrite-strings -fstack-protector -fstrict-volatile-bitfields -Wno-error=unused-but-set-variable -fno-jump-tables -fno-tree-switch-conversion -MMD -fdiagnostics-color=always"
+				},
+				{
+					"fragment" : "-std=gnu++11"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "ARDUINO=10812"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "ARDUINO_ARCH_ESP32"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "ARDUINO_BOARD=\"Espressif ESP32-S3-Box\""
+				},
+				{
+					"backtrace" : 7,
+					"define" : "ARDUINO_ESP32_S3_BOX"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "ARDUINO_PARTITION_default"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "ARDUINO_USB_CDC_ON_BOOT=1"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "ARDUINO_USB_MODE=1"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "ARDUINO_VARIANT=\"esp32s3box\""
+				},
+				{
+					"backtrace" : 12,
+					"define" : "BOARD_HAS_PSRAM"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "ESP32"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "ESP_PLATFORM"
+				},
+				{
+					"backtrace" : 15,
+					"define" : "F_CPU=240000000L"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "HAVE_CONFIG_H"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "IDF_VER=\"v4.4.4\""
+				},
+				{
+					"backtrace" : 18,
+					"define" : "MBEDTLS_CONFIG_FILE=\"mbedtls/esp_config.h\""
+				},
+				{
+					"backtrace" : 19,
+					"define" : "PLATFORMIO=60106"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "UNITY_INCLUDE_CONFIG_H"
+				},
+				{
+					"backtrace" : 21,
+					"define" : "WITH_POSIX"
+				},
+				{
+					"backtrace" : 22,
+					"define" : "_GNU_SOURCE"
+				},
+				{
+					"backtrace" : 23,
+					"define" : "_POSIX_READER_WRITER_LOCKS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 24,
+					"path" : "C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/include"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/src"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src"
+				},
+				{
+					"backtrace" : 29,
+					"path" : "C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/.pio/libdeps/esp32s3box/AHTxx/src"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/.pio/libdeps/esp32s3box/DFRobot_ENS160"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/.pio/libdeps/esp32s3box/Time"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/.pio/libdeps/esp32s3box/ArduinoJson/src"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/.pio/libdeps/esp32s3box/TFT_eSPI"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/LittleFS/src"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/FS/src"
+				},
+				{
+					"backtrace" : 37,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/newlib/platform_include"
+				},
+				{
+					"backtrace" : 39,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freertos/include"
+				},
+				{
+					"backtrace" : 40,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freertos/include/esp_additions/freertos"
+				},
+				{
+					"backtrace" : 41,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freertos/port/xtensa/include"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freertos/include/esp_additions"
+				},
+				{
+					"backtrace" : 43,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hw_support/include"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hw_support/include/soc"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hw_support/include/soc/esp32s3"
+				},
+				{
+					"backtrace" : 46,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hw_support/port/esp32s3"
+				},
+				{
+					"backtrace" : 47,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hw_support/port/esp32s3/private_include"
+				},
+				{
+					"backtrace" : 48,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/heap/include"
+				},
+				{
+					"backtrace" : 49,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/log/include"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/lwip/include/apps"
+				},
+				{
+					"backtrace" : 51,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/lwip/include/apps/sntp"
+				},
+				{
+					"backtrace" : 52,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/lwip/lwip/src/include"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/lwip/port/esp32/include"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/lwip/port/esp32/include/arch"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/soc/include"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/soc/esp32s3"
+				},
+				{
+					"backtrace" : 57,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/soc/esp32s3/include"
+				},
+				{
+					"backtrace" : 58,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/hal/esp32s3/include"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/hal/include"
+				},
+				{
+					"backtrace" : 60,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/hal/platform_port/include"
+				},
+				{
+					"backtrace" : 61,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_rom/include"
+				},
+				{
+					"backtrace" : 62,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_rom/include/esp32s3"
+				},
+				{
+					"backtrace" : 63,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_rom/esp32s3"
+				},
+				{
+					"backtrace" : 64,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_system/include"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_system/port/soc"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_system/port/public_compat"
+				},
+				{
+					"backtrace" : 68,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/xtensa/include"
+				},
+				{
+					"backtrace" : 69,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/xtensa/esp32s3/include"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/driver/include"
+				},
+				{
+					"backtrace" : 71,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/driver/esp32s3/include"
+				},
+				{
+					"backtrace" : 72,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_pm/include"
+				},
+				{
+					"backtrace" : 73,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_ringbuf/include"
+				},
+				{
+					"backtrace" : 74,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/efuse/include"
+				},
+				{
+					"backtrace" : 75,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/efuse/esp32s3/include"
+				},
+				{
+					"backtrace" : 76,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/vfs/include"
+				},
+				{
+					"backtrace" : 77,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_wifi/include"
+				},
+				{
+					"backtrace" : 78,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_event/include"
+				},
+				{
+					"backtrace" : 79,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_netif/include"
+				},
+				{
+					"backtrace" : 80,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_eth/include"
+				},
+				{
+					"backtrace" : 81,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/tcpip_adapter/include"
+				},
+				{
+					"backtrace" : 82,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_phy/include"
+				},
+				{
+					"backtrace" : 83,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_phy/esp32s3/include"
+				},
+				{
+					"backtrace" : 84,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_ipc/include"
+				},
+				{
+					"backtrace" : 85,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/app_trace/include"
+				},
+				{
+					"backtrace" : 86,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_timer/include"
+				},
+				{
+					"backtrace" : 87,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/mbedtls/port/include"
+				},
+				{
+					"backtrace" : 88,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/mbedtls/mbedtls/include"
+				},
+				{
+					"backtrace" : 89,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/mbedtls/esp_crt_bundle/include"
+				},
+				{
+					"backtrace" : 90,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/app_update/include"
+				},
+				{
+					"backtrace" : 91,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/spi_flash/include"
+				},
+				{
+					"backtrace" : 92,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bootloader_support/include"
+				},
+				{
+					"backtrace" : 93,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/nvs_flash/include"
+				},
+				{
+					"backtrace" : 94,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/pthread/include"
+				},
+				{
+					"backtrace" : 95,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_gdbstub/include"
+				},
+				{
+					"backtrace" : 96,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_gdbstub/xtensa"
+				},
+				{
+					"backtrace" : 97,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_gdbstub/esp32s3"
+				},
+				{
+					"backtrace" : 98,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/espcoredump/include"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/espcoredump/include/port/xtensa"
+				},
+				{
+					"backtrace" : 100,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/wpa_supplicant/include"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/wpa_supplicant/port/include"
+				},
+				{
+					"backtrace" : 102,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/wpa_supplicant/esp_supplicant/include"
+				},
+				{
+					"backtrace" : 103,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/ieee802154/include"
+				},
+				{
+					"backtrace" : 104,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/console"
+				},
+				{
+					"backtrace" : 105,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/asio/asio/asio/include"
+				},
+				{
+					"backtrace" : 106,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/asio/port/include"
+				},
+				{
+					"backtrace" : 107,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/common/osi/include"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/include/esp32s3/include"
+				},
+				{
+					"backtrace" : 109,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/common/api/include/api"
+				},
+				{
+					"backtrace" : 110,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/common/btc/profile/esp/blufi/include"
+				},
+				{
+					"backtrace" : 111,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/common/btc/profile/esp/include"
+				},
+				{
+					"backtrace" : 112,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/host/bluedroid/api/include/api"
+				},
+				{
+					"backtrace" : 113,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_common/include"
+				},
+				{
+					"backtrace" : 114,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_common/tinycrypt/include"
+				},
+				{
+					"backtrace" : 115,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_core"
+				},
+				{
+					"backtrace" : 116,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_core/include"
+				},
+				{
+					"backtrace" : 117,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_core/storage"
+				},
+				{
+					"backtrace" : 118,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/btc/include"
+				},
+				{
+					"backtrace" : 119,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_models/common/include"
+				},
+				{
+					"backtrace" : 120,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_models/client/include"
+				},
+				{
+					"backtrace" : 121,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_models/server/include"
+				},
+				{
+					"backtrace" : 122,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/api/core/include"
+				},
+				{
+					"backtrace" : 123,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/api/models/include"
+				},
+				{
+					"backtrace" : 124,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/api"
+				},
+				{
+					"backtrace" : 125,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/cbor/port/include"
+				},
+				{
+					"backtrace" : 126,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/unity/include"
+				},
+				{
+					"backtrace" : 127,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/unity/unity/src"
+				},
+				{
+					"backtrace" : 128,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/cmock/CMock/src"
+				},
+				{
+					"backtrace" : 129,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/coap/port/include"
+				},
+				{
+					"backtrace" : 130,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/coap/libcoap/include"
+				},
+				{
+					"backtrace" : 131,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/nghttp/port/include"
+				},
+				{
+					"backtrace" : 132,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/nghttp/nghttp2/lib/includes"
+				},
+				{
+					"backtrace" : 133,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-tls"
+				},
+				{
+					"backtrace" : 134,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-tls/esp-tls-crypto"
+				},
+				{
+					"backtrace" : 135,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_adc_cal/include"
+				},
+				{
+					"backtrace" : 136,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hid/include"
+				},
+				{
+					"backtrace" : 137,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/tcp_transport/include"
+				},
+				{
+					"backtrace" : 138,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_http_client/include"
+				},
+				{
+					"backtrace" : 139,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_http_server/include"
+				},
+				{
+					"backtrace" : 140,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_https_ota/include"
+				},
+				{
+					"backtrace" : 141,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_https_server/include"
+				},
+				{
+					"backtrace" : 142,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_lcd/include"
+				},
+				{
+					"backtrace" : 143,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_lcd/interface"
+				},
+				{
+					"backtrace" : 144,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/protobuf-c/protobuf-c"
+				},
+				{
+					"backtrace" : 145,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/protocomm/include/common"
+				},
+				{
+					"backtrace" : 146,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/protocomm/include/security"
+				},
+				{
+					"backtrace" : 147,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/protocomm/include/transports"
+				},
+				{
+					"backtrace" : 148,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/mdns/include"
+				},
+				{
+					"backtrace" : 149,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_local_ctrl/include"
+				},
+				{
+					"backtrace" : 150,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/sdmmc/include"
+				},
+				{
+					"backtrace" : 151,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_serial_slave_link/include"
+				},
+				{
+					"backtrace" : 152,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_websocket_client/include"
+				},
+				{
+					"backtrace" : 153,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/expat/expat/expat/lib"
+				},
+				{
+					"backtrace" : 154,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/expat/port/include"
+				},
+				{
+					"backtrace" : 155,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/wear_levelling/include"
+				},
+				{
+					"backtrace" : 156,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/fatfs/diskio"
+				},
+				{
+					"backtrace" : 157,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/fatfs/vfs"
+				},
+				{
+					"backtrace" : 158,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/fatfs/src"
+				},
+				{
+					"backtrace" : 159,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freemodbus/freemodbus/common/include"
+				},
+				{
+					"backtrace" : 160,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/idf_test/include"
+				},
+				{
+					"backtrace" : 161,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/idf_test/include/esp32s3"
+				},
+				{
+					"backtrace" : 162,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/jsmn/include"
+				},
+				{
+					"backtrace" : 163,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/json/cJSON"
+				},
+				{
+					"backtrace" : 164,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/libsodium/libsodium/src/libsodium/include"
+				},
+				{
+					"backtrace" : 165,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/libsodium/port_include"
+				},
+				{
+					"backtrace" : 166,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/mqtt/esp-mqtt/include"
+				},
+				{
+					"backtrace" : 167,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/openssl/include"
+				},
+				{
+					"backtrace" : 168,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/perfmon/include"
+				},
+				{
+					"backtrace" : 169,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/spiffs/include"
+				},
+				{
+					"backtrace" : 170,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/usb/include"
+				},
+				{
+					"backtrace" : 171,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/ulp/include"
+				},
+				{
+					"backtrace" : 172,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/wifi_provisioning/include"
+				},
+				{
+					"backtrace" : 173,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/rmaker_common/include"
+				},
+				{
+					"backtrace" : 174,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/json_parser/upstream/include"
+				},
+				{
+					"backtrace" : 175,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/json_parser/upstream"
+				},
+				{
+					"backtrace" : 176,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/json_generator/upstream"
+				},
+				{
+					"backtrace" : 177,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_schedule/include"
+				},
+				{
+					"backtrace" : 178,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_rainmaker/include"
+				},
+				{
+					"backtrace" : 179,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/gpio_button/button/include"
+				},
+				{
+					"backtrace" : 180,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/qrcode/include"
+				},
+				{
+					"backtrace" : 181,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/ws2812_led"
+				},
+				{
+					"backtrace" : 182,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_diagnostics/include"
+				},
+				{
+					"backtrace" : 183,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/rtc_store/include"
+				},
+				{
+					"backtrace" : 184,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_insights/include"
+				},
+				{
+					"backtrace" : 185,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/dotprod/include"
+				},
+				{
+					"backtrace" : 186,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/support/include"
+				},
+				{
+					"backtrace" : 187,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/windows/include"
+				},
+				{
+					"backtrace" : 188,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/windows/hann/include"
+				},
+				{
+					"backtrace" : 189,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/windows/blackman/include"
+				},
+				{
+					"backtrace" : 190,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/windows/blackman_harris/include"
+				},
+				{
+					"backtrace" : 191,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/windows/blackman_nuttall/include"
+				},
+				{
+					"backtrace" : 192,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/windows/nuttall/include"
+				},
+				{
+					"backtrace" : 193,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/windows/flat_top/include"
+				},
+				{
+					"backtrace" : 194,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/iir/include"
+				},
+				{
+					"backtrace" : 195,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/fir/include"
+				},
+				{
+					"backtrace" : 196,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/math/include"
+				},
+				{
+					"backtrace" : 197,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/math/add/include"
+				},
+				{
+					"backtrace" : 198,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/math/sub/include"
+				},
+				{
+					"backtrace" : 199,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/math/mul/include"
+				},
+				{
+					"backtrace" : 200,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/math/addc/include"
+				},
+				{
+					"backtrace" : 201,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/math/mulc/include"
+				},
+				{
+					"backtrace" : 202,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/math/sqrt/include"
+				},
+				{
+					"backtrace" : 203,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/matrix/include"
+				},
+				{
+					"backtrace" : 204,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/fft/include"
+				},
+				{
+					"backtrace" : 205,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/dct/include"
+				},
+				{
+					"backtrace" : 206,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/conv/include"
+				},
+				{
+					"backtrace" : 207,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/common/include"
+				},
+				{
+					"backtrace" : 208,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/kalman/ekf/include"
+				},
+				{
+					"backtrace" : 209,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/kalman/ekf_imu13states/include"
+				},
+				{
+					"backtrace" : 210,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freertos/include/freertos"
+				},
+				{
+					"backtrace" : 211,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/arduino_tinyusb/tinyusb/src"
+				},
+				{
+					"backtrace" : 212,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/arduino_tinyusb/include"
+				},
+				{
+					"backtrace" : 213,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_littlefs/include"
+				},
+				{
+					"backtrace" : 214,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include"
+				},
+				{
+					"backtrace" : 215,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/tool"
+				},
+				{
+					"backtrace" : 216,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/typedef"
+				},
+				{
+					"backtrace" : 217,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/image"
+				},
+				{
+					"backtrace" : 218,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/math"
+				},
+				{
+					"backtrace" : 219,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/nn"
+				},
+				{
+					"backtrace" : 220,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/layer"
+				},
+				{
+					"backtrace" : 221,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/detect"
+				},
+				{
+					"backtrace" : 222,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/model_zoo"
+				},
+				{
+					"backtrace" : 223,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-sr/src/include"
+				},
+				{
+					"backtrace" : 224,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-sr/esp-tts/esp_tts_chinese/include"
+				},
+				{
+					"backtrace" : 225,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-sr/include/esp32s3"
+				},
+				{
+					"backtrace" : 226,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp32-camera/driver/include"
+				},
+				{
+					"backtrace" : 227,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp32-camera/conversions/include"
+				},
+				{
+					"backtrace" : 228,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/fb_gfx/include"
+				},
+				{
+					"backtrace" : 229,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/qio_opi/include"
+				},
+				{
+					"backtrace" : 230,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/cores/esp32"
+				},
+				{
+					"backtrace" : 231,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/variants/esp32s3box"
+				},
+				{
+					"backtrace" : 232,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src"
+				},
+				{
+					"backtrace" : 233,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src"
+				},
+				{
+					"backtrace" : 234,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src"
+				},
+				{
+					"backtrace" : 235,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src"
+				},
+				{
+					"backtrace" : 236,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src"
+				},
+				{
+					"backtrace" : 237,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/DNSServer/src"
+				},
+				{
+					"backtrace" : 238,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/EEPROM/src"
+				},
+				{
+					"backtrace" : 239,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/ESP32/src"
+				},
+				{
+					"backtrace" : 240,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/ESPmDNS/src"
+				},
+				{
+					"backtrace" : 241,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/Ethernet/src"
+				},
+				{
+					"backtrace" : 242,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/FFat/src"
+				},
+				{
+					"backtrace" : 243,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdate/src"
+				},
+				{
+					"backtrace" : 244,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdateServer/src"
+				},
+				{
+					"backtrace" : 245,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/I2S/src"
+				},
+				{
+					"backtrace" : 246,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/Insights/src"
+				},
+				{
+					"backtrace" : 247,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/NetBIOS/src"
+				},
+				{
+					"backtrace" : 248,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/Preferences/src"
+				},
+				{
+					"backtrace" : 249,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/RainMaker/src"
+				},
+				{
+					"backtrace" : 250,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/SD/src"
+				},
+				{
+					"backtrace" : 251,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/SD_MMC/src"
+				},
+				{
+					"backtrace" : 252,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/SimpleBLE/src"
+				},
+				{
+					"backtrace" : 253,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src"
+				},
+				{
+					"backtrace" : 254,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/USB/src"
+				},
+				{
+					"backtrace" : 255,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/Update/src"
+				},
+				{
+					"backtrace" : 256,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src"
+				},
+				{
+					"backtrace" : 257,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src"
+				},
+				{
+					"backtrace" : 258,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-riscv32-esp/riscv32-esp-elf/include/c++/8.4.0"
+				},
+				{
+					"backtrace" : 259,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-riscv32-esp/riscv32-esp-elf/include/c++/8.4.0/riscv32-esp-elf"
+				},
+				{
+					"backtrace" : 260,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-riscv32-esp/lib/gcc/riscv32-esp-elf/8.4.0/include"
+				},
+				{
+					"backtrace" : 261,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-riscv32-esp/lib/gcc/riscv32-esp-elf/8.4.0/include-fixed"
+				},
+				{
+					"backtrace" : 262,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-riscv32-esp/riscv32-esp-elf/include"
+				},
+				{
+					"backtrace" : 263,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-xtensa-esp32s3/xtensa-esp32s3-elf/include/c++/8.4.0"
+				},
+				{
+					"backtrace" : 264,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-xtensa-esp32s3/xtensa-esp32s3-elf/include/c++/8.4.0/xtensa-esp32s3-elf"
+				},
+				{
+					"backtrace" : 265,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-xtensa-esp32s3/lib/gcc/xtensa-esp32s3-elf/8.4.0/include"
+				},
+				{
+					"backtrace" : 266,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-xtensa-esp32s3/lib/gcc/xtensa-esp32s3-elf/8.4.0/include-fixed"
+				},
+				{
+					"backtrace" : 267,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-xtensa-esp32s3/xtensa-esp32s3-elf/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "11"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				5,
+				7,
+				10,
+				29,
+				31,
+				33,
+				92,
+				189,
+				191,
+				193,
+				195,
+				197,
+				199,
+				201,
+				203,
+				205,
+				207,
+				209,
+				211,
+				213,
+				215,
+				217,
+				219,
+				221,
+				223,
+				225,
+				227,
+				229,
+				231,
+				233,
+				235,
+				237,
+				239,
+				241,
+				243,
+				245,
+				247,
+				249,
+				251,
+				253,
+				255,
+				257,
+				259,
+				261,
+				263,
+				265,
+				267,
+				269,
+				271,
+				273,
+				275,
+				277,
+				279,
+				281,
+				283,
+				285,
+				287,
+				289,
+				291,
+				293,
+				295,
+				297,
+				299,
+				301,
+				303,
+				305,
+				307,
+				309,
+				311,
+				313,
+				315,
+				317,
+				319,
+				321,
+				323,
+				325,
+				327,
+				329,
+				331,
+				333,
+				335,
+				337,
+				339,
+				341,
+				343,
+				345,
+				347,
+				349
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-std=gnu99 -Wno-old-style-declaration -Os -mlongcalls -ffunction-sections -fdata-sections -Wno-error=unused-function -Wno-error=unused-variable -Wno-error=deprecated-declarations -Wno-unused-parameter -Wno-sign-compare -ggdb -freorder-blocks -Wwrite-strings -fstack-protector -fstrict-volatile-bitfields -Wno-error=unused-but-set-variable -fno-jump-tables -fno-tree-switch-conversion -MMD -fdiagnostics-color=always"
+				},
+				{
+					"fragment" : "-std=gnu99"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 4,
+					"define" : "ARDUINO=10812"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "ARDUINO_ARCH_ESP32"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "ARDUINO_BOARD=\"Espressif ESP32-S3-Box\""
+				},
+				{
+					"backtrace" : 7,
+					"define" : "ARDUINO_ESP32_S3_BOX"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "ARDUINO_PARTITION_default"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "ARDUINO_USB_CDC_ON_BOOT=1"
+				},
+				{
+					"backtrace" : 10,
+					"define" : "ARDUINO_USB_MODE=1"
+				},
+				{
+					"backtrace" : 11,
+					"define" : "ARDUINO_VARIANT=\"esp32s3box\""
+				},
+				{
+					"backtrace" : 12,
+					"define" : "BOARD_HAS_PSRAM"
+				},
+				{
+					"backtrace" : 13,
+					"define" : "ESP32"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "ESP_PLATFORM"
+				},
+				{
+					"backtrace" : 15,
+					"define" : "F_CPU=240000000L"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "HAVE_CONFIG_H"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "IDF_VER=\"v4.4.4\""
+				},
+				{
+					"backtrace" : 18,
+					"define" : "MBEDTLS_CONFIG_FILE=\"mbedtls/esp_config.h\""
+				},
+				{
+					"backtrace" : 19,
+					"define" : "PLATFORMIO=60106"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "UNITY_INCLUDE_CONFIG_H"
+				},
+				{
+					"backtrace" : 21,
+					"define" : "WITH_POSIX"
+				},
+				{
+					"backtrace" : 22,
+					"define" : "_GNU_SOURCE"
+				},
+				{
+					"backtrace" : 23,
+					"define" : "_POSIX_READER_WRITER_LOCKS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 24,
+					"path" : "C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/include"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/src"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/HTTPClient/src"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/WiFiClientSecure/src"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src"
+				},
+				{
+					"backtrace" : 29,
+					"path" : "C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/.pio/libdeps/esp32s3box/AHTxx/src"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/.pio/libdeps/esp32s3box/DFRobot_ENS160"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/.pio/libdeps/esp32s3box/Time"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/.pio/libdeps/esp32s3box/ArduinoJson/src"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "C:/Users/Roman/CLionProjects/ESP32S3_5.0_INCH_IPS_8048S050/.pio/libdeps/esp32s3box/TFT_eSPI"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/LittleFS/src"
+				},
+				{
+					"backtrace" : 35,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/SPIFFS/src"
+				},
+				{
+					"backtrace" : 36,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/FS/src"
+				},
+				{
+					"backtrace" : 37,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src"
+				},
+				{
+					"backtrace" : 38,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/newlib/platform_include"
+				},
+				{
+					"backtrace" : 39,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freertos/include"
+				},
+				{
+					"backtrace" : 40,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freertos/include/esp_additions/freertos"
+				},
+				{
+					"backtrace" : 41,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freertos/port/xtensa/include"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freertos/include/esp_additions"
+				},
+				{
+					"backtrace" : 43,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hw_support/include"
+				},
+				{
+					"backtrace" : 44,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hw_support/include/soc"
+				},
+				{
+					"backtrace" : 45,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hw_support/include/soc/esp32s3"
+				},
+				{
+					"backtrace" : 46,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hw_support/port/esp32s3"
+				},
+				{
+					"backtrace" : 47,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hw_support/port/esp32s3/private_include"
+				},
+				{
+					"backtrace" : 48,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/heap/include"
+				},
+				{
+					"backtrace" : 49,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/log/include"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/lwip/include/apps"
+				},
+				{
+					"backtrace" : 51,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/lwip/include/apps/sntp"
+				},
+				{
+					"backtrace" : 52,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/lwip/lwip/src/include"
+				},
+				{
+					"backtrace" : 53,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/lwip/port/esp32/include"
+				},
+				{
+					"backtrace" : 54,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/lwip/port/esp32/include/arch"
+				},
+				{
+					"backtrace" : 55,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/soc/include"
+				},
+				{
+					"backtrace" : 56,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/soc/esp32s3"
+				},
+				{
+					"backtrace" : 57,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/soc/esp32s3/include"
+				},
+				{
+					"backtrace" : 58,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/hal/esp32s3/include"
+				},
+				{
+					"backtrace" : 59,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/hal/include"
+				},
+				{
+					"backtrace" : 60,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/hal/platform_port/include"
+				},
+				{
+					"backtrace" : 61,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_rom/include"
+				},
+				{
+					"backtrace" : 62,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_rom/include/esp32s3"
+				},
+				{
+					"backtrace" : 63,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_rom/esp32s3"
+				},
+				{
+					"backtrace" : 64,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_common/include"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_system/include"
+				},
+				{
+					"backtrace" : 66,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_system/port/soc"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_system/port/public_compat"
+				},
+				{
+					"backtrace" : 68,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/xtensa/include"
+				},
+				{
+					"backtrace" : 69,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/xtensa/esp32s3/include"
+				},
+				{
+					"backtrace" : 70,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/driver/include"
+				},
+				{
+					"backtrace" : 71,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/driver/esp32s3/include"
+				},
+				{
+					"backtrace" : 72,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_pm/include"
+				},
+				{
+					"backtrace" : 73,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_ringbuf/include"
+				},
+				{
+					"backtrace" : 74,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/efuse/include"
+				},
+				{
+					"backtrace" : 75,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/efuse/esp32s3/include"
+				},
+				{
+					"backtrace" : 76,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/vfs/include"
+				},
+				{
+					"backtrace" : 77,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_wifi/include"
+				},
+				{
+					"backtrace" : 78,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_event/include"
+				},
+				{
+					"backtrace" : 79,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_netif/include"
+				},
+				{
+					"backtrace" : 80,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_eth/include"
+				},
+				{
+					"backtrace" : 81,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/tcpip_adapter/include"
+				},
+				{
+					"backtrace" : 82,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_phy/include"
+				},
+				{
+					"backtrace" : 83,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_phy/esp32s3/include"
+				},
+				{
+					"backtrace" : 84,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_ipc/include"
+				},
+				{
+					"backtrace" : 85,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/app_trace/include"
+				},
+				{
+					"backtrace" : 86,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_timer/include"
+				},
+				{
+					"backtrace" : 87,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/mbedtls/port/include"
+				},
+				{
+					"backtrace" : 88,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/mbedtls/mbedtls/include"
+				},
+				{
+					"backtrace" : 89,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/mbedtls/esp_crt_bundle/include"
+				},
+				{
+					"backtrace" : 90,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/app_update/include"
+				},
+				{
+					"backtrace" : 91,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/spi_flash/include"
+				},
+				{
+					"backtrace" : 92,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bootloader_support/include"
+				},
+				{
+					"backtrace" : 93,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/nvs_flash/include"
+				},
+				{
+					"backtrace" : 94,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/pthread/include"
+				},
+				{
+					"backtrace" : 95,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_gdbstub/include"
+				},
+				{
+					"backtrace" : 96,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_gdbstub/xtensa"
+				},
+				{
+					"backtrace" : 97,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_gdbstub/esp32s3"
+				},
+				{
+					"backtrace" : 98,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/espcoredump/include"
+				},
+				{
+					"backtrace" : 99,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/espcoredump/include/port/xtensa"
+				},
+				{
+					"backtrace" : 100,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/wpa_supplicant/include"
+				},
+				{
+					"backtrace" : 101,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/wpa_supplicant/port/include"
+				},
+				{
+					"backtrace" : 102,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/wpa_supplicant/esp_supplicant/include"
+				},
+				{
+					"backtrace" : 103,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/ieee802154/include"
+				},
+				{
+					"backtrace" : 104,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/console"
+				},
+				{
+					"backtrace" : 105,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/asio/asio/asio/include"
+				},
+				{
+					"backtrace" : 106,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/asio/port/include"
+				},
+				{
+					"backtrace" : 107,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/common/osi/include"
+				},
+				{
+					"backtrace" : 108,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/include/esp32s3/include"
+				},
+				{
+					"backtrace" : 109,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/common/api/include/api"
+				},
+				{
+					"backtrace" : 110,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/common/btc/profile/esp/blufi/include"
+				},
+				{
+					"backtrace" : 111,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/common/btc/profile/esp/include"
+				},
+				{
+					"backtrace" : 112,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/host/bluedroid/api/include/api"
+				},
+				{
+					"backtrace" : 113,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_common/include"
+				},
+				{
+					"backtrace" : 114,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_common/tinycrypt/include"
+				},
+				{
+					"backtrace" : 115,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_core"
+				},
+				{
+					"backtrace" : 116,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_core/include"
+				},
+				{
+					"backtrace" : 117,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_core/storage"
+				},
+				{
+					"backtrace" : 118,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/btc/include"
+				},
+				{
+					"backtrace" : 119,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_models/common/include"
+				},
+				{
+					"backtrace" : 120,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_models/client/include"
+				},
+				{
+					"backtrace" : 121,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/mesh_models/server/include"
+				},
+				{
+					"backtrace" : 122,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/api/core/include"
+				},
+				{
+					"backtrace" : 123,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/api/models/include"
+				},
+				{
+					"backtrace" : 124,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/bt/esp_ble_mesh/api"
+				},
+				{
+					"backtrace" : 125,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/cbor/port/include"
+				},
+				{
+					"backtrace" : 126,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/unity/include"
+				},
+				{
+					"backtrace" : 127,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/unity/unity/src"
+				},
+				{
+					"backtrace" : 128,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/cmock/CMock/src"
+				},
+				{
+					"backtrace" : 129,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/coap/port/include"
+				},
+				{
+					"backtrace" : 130,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/coap/libcoap/include"
+				},
+				{
+					"backtrace" : 131,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/nghttp/port/include"
+				},
+				{
+					"backtrace" : 132,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/nghttp/nghttp2/lib/includes"
+				},
+				{
+					"backtrace" : 133,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-tls"
+				},
+				{
+					"backtrace" : 134,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-tls/esp-tls-crypto"
+				},
+				{
+					"backtrace" : 135,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_adc_cal/include"
+				},
+				{
+					"backtrace" : 136,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_hid/include"
+				},
+				{
+					"backtrace" : 137,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/tcp_transport/include"
+				},
+				{
+					"backtrace" : 138,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_http_client/include"
+				},
+				{
+					"backtrace" : 139,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_http_server/include"
+				},
+				{
+					"backtrace" : 140,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_https_ota/include"
+				},
+				{
+					"backtrace" : 141,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_https_server/include"
+				},
+				{
+					"backtrace" : 142,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_lcd/include"
+				},
+				{
+					"backtrace" : 143,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_lcd/interface"
+				},
+				{
+					"backtrace" : 144,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/protobuf-c/protobuf-c"
+				},
+				{
+					"backtrace" : 145,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/protocomm/include/common"
+				},
+				{
+					"backtrace" : 146,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/protocomm/include/security"
+				},
+				{
+					"backtrace" : 147,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/protocomm/include/transports"
+				},
+				{
+					"backtrace" : 148,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/mdns/include"
+				},
+				{
+					"backtrace" : 149,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_local_ctrl/include"
+				},
+				{
+					"backtrace" : 150,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/sdmmc/include"
+				},
+				{
+					"backtrace" : 151,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_serial_slave_link/include"
+				},
+				{
+					"backtrace" : 152,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_websocket_client/include"
+				},
+				{
+					"backtrace" : 153,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/expat/expat/expat/lib"
+				},
+				{
+					"backtrace" : 154,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/expat/port/include"
+				},
+				{
+					"backtrace" : 155,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/wear_levelling/include"
+				},
+				{
+					"backtrace" : 156,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/fatfs/diskio"
+				},
+				{
+					"backtrace" : 157,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/fatfs/vfs"
+				},
+				{
+					"backtrace" : 158,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/fatfs/src"
+				},
+				{
+					"backtrace" : 159,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freemodbus/freemodbus/common/include"
+				},
+				{
+					"backtrace" : 160,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/idf_test/include"
+				},
+				{
+					"backtrace" : 161,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/idf_test/include/esp32s3"
+				},
+				{
+					"backtrace" : 162,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/jsmn/include"
+				},
+				{
+					"backtrace" : 163,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/json/cJSON"
+				},
+				{
+					"backtrace" : 164,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/libsodium/libsodium/src/libsodium/include"
+				},
+				{
+					"backtrace" : 165,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/libsodium/port_include"
+				},
+				{
+					"backtrace" : 166,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/mqtt/esp-mqtt/include"
+				},
+				{
+					"backtrace" : 167,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/openssl/include"
+				},
+				{
+					"backtrace" : 168,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/perfmon/include"
+				},
+				{
+					"backtrace" : 169,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/spiffs/include"
+				},
+				{
+					"backtrace" : 170,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/usb/include"
+				},
+				{
+					"backtrace" : 171,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/ulp/include"
+				},
+				{
+					"backtrace" : 172,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/wifi_provisioning/include"
+				},
+				{
+					"backtrace" : 173,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/rmaker_common/include"
+				},
+				{
+					"backtrace" : 174,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/json_parser/upstream/include"
+				},
+				{
+					"backtrace" : 175,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/json_parser/upstream"
+				},
+				{
+					"backtrace" : 176,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/json_generator/upstream"
+				},
+				{
+					"backtrace" : 177,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_schedule/include"
+				},
+				{
+					"backtrace" : 178,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_rainmaker/include"
+				},
+				{
+					"backtrace" : 179,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/gpio_button/button/include"
+				},
+				{
+					"backtrace" : 180,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/qrcode/include"
+				},
+				{
+					"backtrace" : 181,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/ws2812_led"
+				},
+				{
+					"backtrace" : 182,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_diagnostics/include"
+				},
+				{
+					"backtrace" : 183,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/rtc_store/include"
+				},
+				{
+					"backtrace" : 184,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_insights/include"
+				},
+				{
+					"backtrace" : 185,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/dotprod/include"
+				},
+				{
+					"backtrace" : 186,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/support/include"
+				},
+				{
+					"backtrace" : 187,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/windows/include"
+				},
+				{
+					"backtrace" : 188,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/windows/hann/include"
+				},
+				{
+					"backtrace" : 189,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/windows/blackman/include"
+				},
+				{
+					"backtrace" : 190,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/windows/blackman_harris/include"
+				},
+				{
+					"backtrace" : 191,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/windows/blackman_nuttall/include"
+				},
+				{
+					"backtrace" : 192,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/windows/nuttall/include"
+				},
+				{
+					"backtrace" : 193,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/windows/flat_top/include"
+				},
+				{
+					"backtrace" : 194,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/iir/include"
+				},
+				{
+					"backtrace" : 195,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/fir/include"
+				},
+				{
+					"backtrace" : 196,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/math/include"
+				},
+				{
+					"backtrace" : 197,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/math/add/include"
+				},
+				{
+					"backtrace" : 198,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/math/sub/include"
+				},
+				{
+					"backtrace" : 199,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/math/mul/include"
+				},
+				{
+					"backtrace" : 200,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/math/addc/include"
+				},
+				{
+					"backtrace" : 201,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/math/mulc/include"
+				},
+				{
+					"backtrace" : 202,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/math/sqrt/include"
+				},
+				{
+					"backtrace" : 203,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/matrix/include"
+				},
+				{
+					"backtrace" : 204,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/fft/include"
+				},
+				{
+					"backtrace" : 205,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/dct/include"
+				},
+				{
+					"backtrace" : 206,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/conv/include"
+				},
+				{
+					"backtrace" : 207,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/common/include"
+				},
+				{
+					"backtrace" : 208,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/kalman/ekf/include"
+				},
+				{
+					"backtrace" : 209,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dsp/modules/kalman/ekf_imu13states/include"
+				},
+				{
+					"backtrace" : 210,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/freertos/include/freertos"
+				},
+				{
+					"backtrace" : 211,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/arduino_tinyusb/tinyusb/src"
+				},
+				{
+					"backtrace" : 212,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/arduino_tinyusb/include"
+				},
+				{
+					"backtrace" : 213,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp_littlefs/include"
+				},
+				{
+					"backtrace" : 214,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include"
+				},
+				{
+					"backtrace" : 215,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/tool"
+				},
+				{
+					"backtrace" : 216,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/typedef"
+				},
+				{
+					"backtrace" : 217,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/image"
+				},
+				{
+					"backtrace" : 218,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/math"
+				},
+				{
+					"backtrace" : 219,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/nn"
+				},
+				{
+					"backtrace" : 220,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/layer"
+				},
+				{
+					"backtrace" : 221,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/detect"
+				},
+				{
+					"backtrace" : 222,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-dl/include/model_zoo"
+				},
+				{
+					"backtrace" : 223,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-sr/src/include"
+				},
+				{
+					"backtrace" : 224,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-sr/esp-tts/esp_tts_chinese/include"
+				},
+				{
+					"backtrace" : 225,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp-sr/include/esp32s3"
+				},
+				{
+					"backtrace" : 226,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp32-camera/driver/include"
+				},
+				{
+					"backtrace" : 227,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/esp32-camera/conversions/include"
+				},
+				{
+					"backtrace" : 228,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/include/fb_gfx/include"
+				},
+				{
+					"backtrace" : 229,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32s3/qio_opi/include"
+				},
+				{
+					"backtrace" : 230,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/cores/esp32"
+				},
+				{
+					"backtrace" : 231,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/variants/esp32s3box"
+				},
+				{
+					"backtrace" : 232,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/Wire/src"
+				},
+				{
+					"backtrace" : 233,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src"
+				},
+				{
+					"backtrace" : 234,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src"
+				},
+				{
+					"backtrace" : 235,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src"
+				},
+				{
+					"backtrace" : 236,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src"
+				},
+				{
+					"backtrace" : 237,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/DNSServer/src"
+				},
+				{
+					"backtrace" : 238,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/EEPROM/src"
+				},
+				{
+					"backtrace" : 239,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/ESP32/src"
+				},
+				{
+					"backtrace" : 240,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/ESPmDNS/src"
+				},
+				{
+					"backtrace" : 241,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/Ethernet/src"
+				},
+				{
+					"backtrace" : 242,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/FFat/src"
+				},
+				{
+					"backtrace" : 243,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdate/src"
+				},
+				{
+					"backtrace" : 244,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/HTTPUpdateServer/src"
+				},
+				{
+					"backtrace" : 245,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/I2S/src"
+				},
+				{
+					"backtrace" : 246,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/Insights/src"
+				},
+				{
+					"backtrace" : 247,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/NetBIOS/src"
+				},
+				{
+					"backtrace" : 248,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/Preferences/src"
+				},
+				{
+					"backtrace" : 249,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/RainMaker/src"
+				},
+				{
+					"backtrace" : 250,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/SD/src"
+				},
+				{
+					"backtrace" : 251,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/SD_MMC/src"
+				},
+				{
+					"backtrace" : 252,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/SimpleBLE/src"
+				},
+				{
+					"backtrace" : 253,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/Ticker/src"
+				},
+				{
+					"backtrace" : 254,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/USB/src"
+				},
+				{
+					"backtrace" : 255,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/Update/src"
+				},
+				{
+					"backtrace" : 256,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/WebServer/src"
+				},
+				{
+					"backtrace" : 257,
+					"path" : "C:/Users/Roman/.platformio/packages/framework-arduinoespressif32/libraries/WiFiProv/src"
+				},
+				{
+					"backtrace" : 258,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-riscv32-esp/riscv32-esp-elf/include/c++/8.4.0"
+				},
+				{
+					"backtrace" : 259,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-riscv32-esp/riscv32-esp-elf/include/c++/8.4.0/riscv32-esp-elf"
+				},
+				{
+					"backtrace" : 260,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-riscv32-esp/lib/gcc/riscv32-esp-elf/8.4.0/include"
+				},
+				{
+					"backtrace" : 261,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-riscv32-esp/lib/gcc/riscv32-esp-elf/8.4.0/include-fixed"
+				},
+				{
+					"backtrace" : 262,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-riscv32-esp/riscv32-esp-elf/include"
+				},
+				{
+					"backtrace" : 263,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-xtensa-esp32s3/xtensa-esp32s3-elf/include/c++/8.4.0"
+				},
+				{
+					"backtrace" : 264,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-xtensa-esp32s3/xtensa-esp32s3-elf/include/c++/8.4.0/xtensa-esp32s3-elf"
+				},
+				{
+					"backtrace" : 265,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-xtensa-esp32s3/lib/gcc/xtensa-esp32s3-elf/8.4.0/include"
+				},
+				{
+					"backtrace" : 266,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-xtensa-esp32s3/lib/gcc/xtensa-esp32s3-elf/8.4.0/include-fixed"
+				},
+				{
+					"backtrace" : 267,
+					"path" : "C:/Users/Roman/.platformio/packages/toolchain-xtensa-esp32s3/xtensa-esp32s3-elf/include"
+				}
+			],
+			"language" : "C",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					1
+				],
+				"standard" : "99"
+			},
+			"sourceIndexes" : 
+			[
+				96,
+				100,
+				129,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				141,
+				142,
+				143,
+				147,
+				150,
+				151,
+				152,
+				153
+			]
+		}
+	],
+	"id" : "Z_DUMMY_TARGET::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-std=gnu++11 -fexceptions -fno-rtti -Os -mlongcalls -ffunction-sections -fdata-sections -Wno-error=unused-function -Wno-error=unused-variable -Wno-error=deprecated-declarations -Wno-unused-parameter -Wno-sign-compare -ggdb -freorder-blocks -Wwrite-strings -fstack-protector -fstrict-volatile-bitfields -Wno-error=unused-but-set-variable -fno-jump-tables -fno-tree-switch-conversion -MMD",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "Z_DUMMY_TARGET",
+	"nameOnDisk" : "Z_DUMMY_TARGET",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				5,
+				7,
+				10,
+				29,
+				31,
+				33,
+				92,
+				96,
+				100,
+				129,
+				133,
+				134,
+				135,
+				136,
+				137,
+				138,
+				139,
+				141,
+				142,
+				143,
+				147,
+				150,
+				151,
+				152,
+				153,
+				189,
+				191,
+				193,
+				195,
+				197,
+				199,
+				201,
+				203,
+				205,
+				207,
+				209,
+				211,
+				213,
+				215,
+				217,
+				219,
+				221,
+				223,
+				225,
+				227,
+				229,
+				231,
+				233,
+				235,
+				237,
+				239,
+				241,
+				243,
+				245,
+				247,
+				249,
+				251,
+				253,
+				255,
+				257,
+				259,
+				261,
+				263,
+				265,
+				267,
+				269,
+				271,
+				273,
+				275,
+				277,
+				279,
+				281,
+				283,
+				285,
+				287,
+				289,
+				291,
+				293,
+				295,
+				297,
+				299,
+				301,
+				303,
+				305,
+				307,
+				309,
+				311,
+				313,
+				315,
+				317,
+				319,
+				321,
+				323,
+				325,
+				327,
+				329,
+				331,
+				333,
+				335,
+				337,
+				339,
+				341,
+				343,
+				345,
+				347,
+				349
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				36,
+				89,
+				90,
+				91,
+				94,
+				95,
+				97,
+				98,
+				101,
+				102,
+				103,
+				104,
+				105,
+				109,
+				110,
+				111,
+				115,
+				117,
+				119,
+				120,
+				121,
+				122,
+				123,
+				125,
+				127,
+				128,
+				130,
+				131,
+				132,
+				146,
+				148,
+				149,
+				157,
+				158,
+				159,
+				161,
+				167,
+				170,
+				171,
+				173,
+				174,
+				175,
+				176,
+				177,
+				178,
+				179,
+				180,
+				181,
+				182,
+				183,
+				184,
+				185,
+				187,
+				188,
+				351,
+				361
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				6,
+				8,
+				9,
+				11,
+				30,
+				32,
+				34,
+				35,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				82,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				93,
+				99,
+				106,
+				107,
+				108,
+				112,
+				113,
+				114,
+				116,
+				118,
+				124,
+				126,
+				140,
+				144,
+				145,
+				154,
+				155,
+				156,
+				160,
+				162,
+				163,
+				164,
+				165,
+				166,
+				168,
+				169,
+				172,
+				186,
+				190,
+				192,
+				194,
+				196,
+				198,
+				200,
+				202,
+				204,
+				206,
+				208,
+				210,
+				212,
+				214,
+				216,
+				218,
+				220,
+				222,
+				224,
+				226,
+				228,
+				230,
+				232,
+				234,
+				236,
+				238,
+				240,
+				242,
+				244,
+				246,
+				248,
+				250,
+				252,
+				254,
+				256,
+				258,
+				260,
+				262,
+				264,
+				266,
+				268,
+				270,
+				272,
+				274,
+				276,
+				278,
+				280,
+				282,
+				284,
+				286,
+				288,
+				290,
+				292,
+				294,
+				296,
+				298,
+				300,
+				302,
+				304,
+				306,
+				308,
+				310,
+				312,
+				314,
+				316,
+				318,
+				320,
+				322,
+				324,
+				326,
+				328,
+				330,
+				332,
+				334,
+				336,
+				338,
+				340,
+				342,
+				344,
+				346,
+				348,
+				350,
+				352,
+				353,
+				354,
+				355,
+				356,
+				357,
+				358,
+				359,
+				360
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/.github/ISSUE_TEMPLATE.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/.github/PULL_REQUEST_TEMPLATE.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/.github/workflows/githubci.yml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/.piopm",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/Adafruit_BusIO_Register.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/Adafruit_BusIO_Register.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/Adafruit_I2CDevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/Adafruit_I2CDevice.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/Adafruit_I2CRegister.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/Adafruit_SPIDevice.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/Adafruit_SPIDevice.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/CMakeLists.txt",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/README.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/component.mk",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/examples/i2c_address_detect/i2c_address_detect.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/examples/i2c_readwrite/i2c_readwrite.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/examples/i2c_registers/i2c_registers.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/examples/i2corspi_register/i2corspi_register.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/examples/spi_modetest/spi_modetest.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/examples/spi_readwrite/spi_readwrite.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/examples/spi_register_bits/spi_register_bits.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/examples/spi_registers/spi_registers.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit BusIO/library.properties",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/.github/ISSUE_TEMPLATE.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/.github/PULL_REQUEST_TEMPLATE.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/.github/workflows/githubci.yml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/.gitignore",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/.piopm",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Adafruit_GFX.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Adafruit_GFX.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Adafruit_GrayOLED.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Adafruit_GrayOLED.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Adafruit_SPITFT.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Adafruit_SPITFT.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Adafruit_SPITFT_Macros.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/CMakeLists.txt",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMono12pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMono18pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMono24pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMono9pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMonoBold12pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMonoBold18pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMonoBold24pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMonoBold9pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMonoBoldOblique12pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMonoBoldOblique18pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMonoBoldOblique24pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMonoBoldOblique9pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMonoOblique12pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMonoOblique18pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMonoOblique24pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeMonoOblique9pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSans12pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSans18pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSans24pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSans9pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSansBold12pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSansBold18pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSansBold24pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSansBold9pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSansBoldOblique12pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSansBoldOblique18pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSansBoldOblique24pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSansBoldOblique9pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSansOblique12pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSansOblique18pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSansOblique24pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSansOblique9pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerif12pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerif18pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerif24pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerif9pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerifBold12pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerifBold18pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerifBold24pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerifBold9pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerifBoldItalic12pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerifBoldItalic18pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerifBoldItalic24pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerifBoldItalic9pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerifItalic12pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerifItalic18pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerifItalic24pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/FreeSerifItalic9pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/Org_01.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/Picopixel.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/Tiny3x3a2pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/Fonts/TomThumb.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/README.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/component.mk",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/examples/GFXcanvas/GFXcanvas.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/examples/GFXcanvas/GFXcanvasSerialDemo.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/examples/GFXcanvas/GFXcanvasSerialDemo.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/examples/mock_ili9341/mock_ili9341.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/fontconvert/bdf2adafruit.py",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/fontconvert/fontconvert.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/fontconvert/fontconvert_win.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/fontconvert/makefonts.sh",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/gfxfont.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/glcdfont.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/library.properties",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/Adafruit GFX Library/license.txt",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/.piopm",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/README.md",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ArduinoVNC/ArduinoVNC.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ArduinoVNC/VNC_GFX.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ArduinoVNC/keyboard.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ArduinoVNC/touch.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/AsciiTable/AsciiTable.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/Clock/Clock.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/HelloWorld/HelloWorld.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/HelloWorldGfxfont/FreeMono8pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/HelloWorldGfxfont/FreeSansBold10pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/HelloWorldGfxfont/FreeSerifBoldItalic12pt7b.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/HelloWorldGfxfont/HelloWorldGfxfont.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerAnimatedGIF/GifClass.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerAnimatedGIF/ImgViewerAnimatedGIF.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerBmp/BmpClass.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerBmp/ImgViewerBmp.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerBmp/data/octocatL.bmp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerBmp/data/octocatM.bmp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerBmp/data/octocatS.bmp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerJpeg/ImgViewerJpeg.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerJpeg/JpegFunc.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerMjpeg/ImgViewerMjpeg.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerMjpeg/MjpegClass.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerMjpeg/data/earth.mjpeg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerMjpeg/data/earth128.mjpeg",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerPROGMEM/Arduino_UNO_Rev3_Ok.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerPROGMEM/ImgViewerPROGMEM.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/ImgViewer/ImgViewerPng/ImgViewerPng.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglBenchmark/LvglBenchmark.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglBenchmark/img_benchmark_cogwheel_alpha16.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglBenchmark/img_benchmark_cogwheel_argb.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglBenchmark/img_benchmark_cogwheel_chroma_keyed.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglBenchmark/img_benchmark_cogwheel_indexed16.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglBenchmark/img_benchmark_cogwheel_rgb.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglBenchmark/img_benchmark_cogwheel_rgb565a8.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglBenchmark/lv_demo_benchmark.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglBenchmark/lv_demo_benchmark.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglBenchmark/lv_font_bechmark_montserrat_12_compr_az.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglBenchmark/lv_font_bechmark_montserrat_16_compr_az.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglBenchmark/lv_font_bechmark_montserrat_28_compr_az.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglBenchmark/touch.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglHelloNeoPixel/Adafruit_NeoPixel_GFX.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglHelloNeoPixel/LvglHelloNeoPixel.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglHelloNeoPixel/ui_font_Chill7.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglHelloWorld/LvglHelloWorld.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglWidgets/LvglWidgets.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglWidgets/img_clothes.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglWidgets/img_demo_widgets_avatar.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglWidgets/img_lvgl_logo.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglWidgets/lv_demo_widgets.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglWidgets/lv_demo_widgets.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/LVGL/LvglWidgets/touch.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/MultipleDisplay/MultipleAnimatedGIF/GifClass.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/MultipleDisplay/MultipleAnimatedGIF/MultipleAnimatedGIF.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/MultipleDisplay/MultiplePDQgraphicstest/MultiplePDQgraphicstest.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/NeoPixel/Adafruit_NeoPixel/Adafruit_NeoPixel.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/NeoPixel/Adafruit_NeoPixel/Adafruit_NeoPixel_GFX.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/NeoPixel/FastLED/FastLED.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/NeoPixel/FastLED/FastLED_GFX.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/PDQgraphicstest/Arduino_GFX_databus.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/PDQgraphicstest/Arduino_GFX_dev_device.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/PDQgraphicstest/Arduino_GFX_display.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/PDQgraphicstest/Arduino_GFX_pins.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/PDQgraphicstest/PDQgraphicstest.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/Sprite/SpriteGif/GifClass.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/Sprite/SpriteGif/IndexedSprite.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/Sprite/SpriteGif/SpriteGif.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/TouchCalibration/TouchCalibration.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/TouchCalibration/touch.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/U8g2Font/U8g2FontHelloWorld/U8g2FontHelloWorld.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/U8g2Font/U8g2FontPrintUTF8/U8g2FontPrintUTF8.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/U8g2Font/U8g2FontUTF8Chinese/U8g2FontUTF8Chinese.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/U8g2Font/U8g2FontUTF8FullCJK/U8g2FontUTF8FullCJK.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/U8g2Font/U8g2FontUTF8FullUnifont/U8g2FontUTF8FullUnifont.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/U8g2Font/U8g2RssReader/U8g2RssReader.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/WiFiAnalyzer/ESPWiFiAnalyzer/ESPWiFiAnalyzer.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/WiFiAnalyzer/ESPWiFiAnalyzerUTF8/ESPWiFiAnalyzerUTF8.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/WiFiAnalyzer/PicoWiFiAnalyzer/PicoWiFiAnalyzer.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/WiFiAnalyzer/PicoWiFiAnalyzerUTF8/PicoWiFiAnalyzerUTF8.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/WiFiAnalyzer/RTLWiFiAnalyzer/RTLWiFiAnalyzer.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/WiFiAnalyzer/RTLWiFiAnalyzerUTF8/RTLWiFiAnalyzerUTF8.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/WiFiAnalyzer/WioWiFiAnalyzer/WioWiFiAnalyzer.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/WiFiPhotoFrame/JpegFunc.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/examples/WiFiPhotoFrame/WiFiPhotoFrame.ino",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/library.properties",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/Arduino_DataBus.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/Arduino_DataBus.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/Arduino_G.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/Arduino_G.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/Arduino_GFX.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/Arduino_GFX.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/Arduino_GFX_Library.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/Arduino_GFX_Library.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/Arduino_TFT.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/Arduino_TFT.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/Arduino_TFT_18bit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/Arduino_TFT_18bit.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/canvas/Arduino_Canvas.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/canvas/Arduino_Canvas.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/canvas/Arduino_Canvas_3bit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/canvas/Arduino_Canvas_3bit.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/canvas/Arduino_Canvas_Indexed.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/canvas/Arduino_Canvas_Indexed.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/canvas/Arduino_Canvas_Mono.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/canvas/Arduino_Canvas_Mono.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_AVRPAR16.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_AVRPAR16.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_AVRPAR8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_AVRPAR8.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_DUEPAR16.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_DUEPAR16.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32LCD16.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32LCD16.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32LCD8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32LCD8.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16Q.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16Q.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16QQ.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32PAR16QQ.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8Q.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8Q.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8QQ.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8QQ.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8QQQ.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32PAR8QQQ.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32QSPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32QSPI.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32RGBPanel.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32RGBPanel.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR16.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR16.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR16Q.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR16Q.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR8.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR8Q.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32S2PAR8Q.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32SPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32SPI.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32SPIDMA.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP32SPIDMA.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP8266SPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_ESP8266SPI.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_HWSPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_HWSPI.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_NRFXSPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_NRFXSPI.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_RPiPicoPAR16.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_RPiPicoPAR16.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_RPiPicoPAR8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_RPiPicoPAR8.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_RPiPicoSPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_RPiPicoSPI.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_RTLPAR8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_RTLPAR8.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_STM32PAR8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_STM32PAR8.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_SWPAR16.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_SWPAR16.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_SWPAR8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_SWPAR8.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_SWSPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_SWSPI.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_UNOPAR8.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_UNOPAR8.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_XCA9554SWSPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_XCA9554SWSPI.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_XL9535SWSPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_XL9535SWSPI.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_mbedSPI.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/databus/Arduino_mbedSPI.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_GC9106.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_GC9106.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_GC9107.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_GC9107.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_GC9A01.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_GC9A01.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_HX8347C.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_HX8347C.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_HX8347D.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_HX8347D.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_HX8352C.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_HX8352C.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_HX8357A.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_HX8357A.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_HX8357B.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_HX8357B.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_HX8369A.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_HX8369A.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9225.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9225.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9331.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9331.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9341.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9341.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9342.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9342.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9481_18bit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9481_18bit.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9486.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9486.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9486_18bit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9486_18bit.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9488.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9488.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9488_18bit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9488_18bit.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9488_3bit.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9488_3bit.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9806.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ILI9806.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_JBT6K71.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_JBT6K71.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_NT35310.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_NT35310.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_NT35510.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_NT35510.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_NT39125.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_NT39125.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_NV3041A.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_NV3041A.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_OTM8009A.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_OTM8009A.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_R61529.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_R61529.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_RGB_Display.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_RGB_Display.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_RM67162.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_RM67162.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_SEPS525.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_SEPS525.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_SSD1283A.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_SSD1283A.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_SSD1331.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_SSD1331.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_SSD1351.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_SSD1351.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ST7735.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ST7735.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ST7789.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ST7789.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ST7796.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/display/Arduino_ST7796.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/font/chinese4.list",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/font/glcdfont.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/font/u8g2_font_chill7_h_cjk.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/font/u8g2_font_cubic11_h_cjk.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/font/u8g2_font_quan7_h_cjk.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/font/u8g2_font_unifont_h_utf8.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/font/u8g2_font_unifont_t_chinese.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/font/u8g2_font_unifont_t_chinese4.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/font/u8g2_font_unifont_t_cjk.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/GFX Library for Arduino/src/gfxfont.h",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 1,
+			"path" : ".pio/libdeps/esp32s3box/integrity.dat",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "EXECUTABLE"
+}
